@@ -4,6 +4,9 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"AllDesktop"
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Lumin"
 	]
 }
